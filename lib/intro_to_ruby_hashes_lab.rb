@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {:one "uno"
+  hash = {:name "Jake", :age 
 end
 
 def pioneer
