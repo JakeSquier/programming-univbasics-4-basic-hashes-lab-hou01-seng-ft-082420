@@ -7,6 +7,7 @@ def my_hash
   hash = {
     :name "Jake", :age "13"
   }
+  return hash
 end
 
 def pioneer
@@ -15,5 +16,5 @@ end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  hash = { :id number }
 end
