@@ -5,7 +5,7 @@ end
 
 def my_hash
   hash = {
-    :name "Jake", :age "13"
+    name: "Jake", age: 13
   }
   return hash
 end
@@ -16,5 +16,5 @@ end
 
 
 def id_hash_generator(number)
-  hash = { :id "number" }
+  hash = { id: number }
 end
